@@ -1,5 +1,5 @@
-# 👋 Kife Intasar Bin Iqbal
-### ⚡ *Transforming Data Into Discoveries*  
+# 👋 I'm Kife Intasar Bin Iqbal
+### ⚡ Passionate about *Transforming Data Into Breakthrough Discoveries*  
 *Welcome to my research universe – where algorithms meet innovation*  
 
 # 💫 About Me:

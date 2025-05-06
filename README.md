@@ -5,7 +5,7 @@
 # 💫 About Me:
 ### Academic Profile<br>- 🎓 PhD Candidate | Computer Science | Shanxi University & Shanghai University<br>- 🔍 Research: Deep Neural Network, Optimal Control Theory, Bioinformatics <br>- 📄 13 Publications <br><br>
 ### Collaboration Profile<br>- 🤝 Interests: Algorithm development, Mathematical Modeling <br>- 🌱 Growing: Deep Neural Network for Long Sequence Data<br><br>
-
+### For more details, visit my site <a href="https://kife-intasar.github.io/" target="_blank">kife-intasar.github.io</a>. 
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>

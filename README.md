@@ -32,7 +32,7 @@
 
 ## 🌐 Socials:
 <a href="https://instagram.com/kife.intasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kife.intasar" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hello" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kife-intasar-bin-iqbal-708653364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hello" height="30" width="40" /></a>
 <a href="mailto:kife.intasar@gmail.com" target="_blank"><img align="center" src="https://github.com/primer/octicons/blob/main/icons/mail-16.svg" alt="Email me" height="40" width="40" /></a>
 
 
